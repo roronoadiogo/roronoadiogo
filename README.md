@@ -5,5 +5,5 @@
 
 Olá, sou Vinícius D. Alves.:
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Desenvolvedor Java 
+ Apaixonado por tecnologia
+ Desenvolvedor Java 
